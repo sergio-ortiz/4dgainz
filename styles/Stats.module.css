@@ -1,0 +1,18 @@
+.container {
+  width: 80%;
+  max-width: 1080px;
+  margin: auto;
+}
+
+.mainHeading {
+  color: #3fcf8e;
+  padding: 0.5rem;
+}
+
+.stats {
+  list-style: none;
+}
+
+.statsItem {
+  margin: 1rem 0;
+}
