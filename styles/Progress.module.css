@@ -1,0 +1,32 @@
+.container {
+  width: 80%;
+  max-width: 1080px;
+  margin: auto;
+}
+
+.mainHeading {
+  color: #3fcf8e;
+  padding: 0.5rem;
+  font-weight: light;
+}
+
+.flexBox {
+  height: 80vh;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.progressCircle {
+  margin: 2rem auto 0;
+  border: 4px solid #3fcf8e;
+  height: 133px;
+  width: 133px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: white;
+  border-left: white;
+}
