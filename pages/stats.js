@@ -7,11 +7,11 @@ const Stats = () => (
       <h1 className={styles.mainHeading}>Stats</h1>
       <hr />
       <ul className={styles.stats}>
-        <li className={styles.statsItem}>Height:</li>
-        <li className={styles.statsItem}>Weight:</li>
-        <li className={styles.statsItem}>Sex:</li>
-        <li className={styles.statsItem}>Age:</li>
-        <li className={styles.statsItem}>Activity:</li>
+        <li className={styles.statsItem}><b>Height:</b> 5'10</li>
+        <li className={styles.statsItem}><b>Weight:</b> 180 lbs</li>
+        <li className={styles.statsItem}><b>Sex:</b> Male</li>
+        <li className={styles.statsItem}><b>Age:</b> 24</li>
+        <li className={styles.statsItem}><b>Activity:</b> 2hrs 3 days a week</li>
       </ul>
     </div>
   </Layout>
