@@ -7,7 +7,7 @@ const Stats = () => (
       <h1 className={styles.mainHeading}>Stats</h1>
       <hr />
       <ul className={styles.stats}>
-        <li className={styles.statsItem}><b>Height:</b> 5'10</li>
+        <li className={styles.statsItem}><b>Height:</b> 5&apos;10</li>
         <li className={styles.statsItem}><b>Weight:</b> 180 lbs</li>
         <li className={styles.statsItem}><b>Sex:</b> Male</li>
         <li className={styles.statsItem}><b>Age:</b> 24</li>

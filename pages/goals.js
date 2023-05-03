@@ -8,7 +8,7 @@ const Goals = () => (
       <hr />
       <ul className={styles.stats}>
         <li className={styles.statsItem}><b>Weight:</b> 200lbs</li>
-        <li className={styles.statsItem}><b>Measurements:</b> back: 18", chest: 44", biceps: 16"</li>
+        <li className={styles.statsItem}><b>Measurements:</b> back: 18&quot;, chest: 44&quot;, biceps: 16&quot;</li>
         <li className={styles.statsItem}><b>Plans:</b> build muscle</li>
       </ul>
     </div>
